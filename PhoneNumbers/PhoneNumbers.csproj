@@ -1,0 +1,108 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp2.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Compile Include="..\..\libphonenumber-csharp\csharp\PhoneNumbers\AreaCodeMap.cs">
+        <Link>AreaCodeMap.cs</Link>
+      </Compile>
+      <Compile Include="..\..\libphonenumber-csharp\csharp\PhoneNumbers\AreaCodeMapStorageStrategy.cs">
+        <Link>AreaCodeMapStorageStrategy.cs</Link>
+      </Compile>
+      <Compile Include="..\..\libphonenumber-csharp\csharp\PhoneNumbers\AreaCodeParser.cs">
+        <Link>AreaCodeParser.cs</Link>
+      </Compile>
+      <Compile Include="..\..\libphonenumber-csharp\csharp\PhoneNumbers\AsYouTypeFormatter.cs">
+        <Link>AsYouTypeFormatter.cs</Link>
+      </Compile>
+      <Compile Include="..\..\libphonenumber-csharp\csharp\PhoneNumbers\BuildMetadataFromXml.cs">
+        <Link>BuildMetadataFromXml.cs</Link>
+      </Compile>
+      <Compile Include="..\..\libphonenumber-csharp\csharp\PhoneNumbers\CountryCodeToRegionCodeMap.cs">
+        <Link>CountryCodeToRegionCodeMap.cs</Link>
+      </Compile>
+      <Compile Include="..\..\libphonenumber-csharp\csharp\PhoneNumbers\DefaultMapStorage.cs">
+        <Link>DefaultMapStorage.cs</Link>
+      </Compile>
+      <Compile Include="..\..\libphonenumber-csharp\csharp\PhoneNumbers\FlyweightMapStorage.cs">
+        <Link>FlyweightMapStorage.cs</Link>
+      </Compile>
+      <Compile Include="..\..\libphonenumber-csharp\csharp\PhoneNumbers\InternalRegexOptions.cs">
+        <Link>InternalRegexOptions.cs</Link>
+      </Compile>
+      <Compile Include="..\..\libphonenumber-csharp\csharp\PhoneNumbers\Internal\IMatcherApi.cs" />
+      <Compile Include="..\..\libphonenumber-csharp\csharp\PhoneNumbers\Internal\RegexBasedMatcher.cs" />
+      <Compile Include="..\..\libphonenumber-csharp\csharp\PhoneNumbers\LeniencyExtensions.cs">
+        <Link>LeniencyExtensions.cs</Link>
+      </Compile>
+      <Compile Include="..\..\libphonenumber-csharp\csharp\PhoneNumbers\LocaleData.cs">
+        <Link>LocaleData.cs</Link>
+      </Compile>
+      <Compile Include="..\..\libphonenumber-csharp\csharp\PhoneNumbers\MappingFileProvider.cs">
+        <Link>MappingFileProvider.cs</Link>
+      </Compile>
+      <Compile Include="..\..\libphonenumber-csharp\csharp\PhoneNumbers\MetadataFilter.cs">
+        <Link>MetadataFilter.cs</Link>
+      </Compile>
+      <Compile Include="..\..\libphonenumber-csharp\csharp\PhoneNumbers\MetadataManager.cs">
+        <Link>MetadataManager.cs</Link>
+      </Compile>
+      <Compile Include="..\..\libphonenumber-csharp\csharp\PhoneNumbers\NetCoreShim.cs">
+        <Link>NetCoreShim.cs</Link>
+      </Compile>
+      <Compile Include="..\..\libphonenumber-csharp\csharp\PhoneNumbers\NumberFormat.cs">
+        <Link>NumberFormat.cs</Link>
+      </Compile>
+      <Compile Include="..\..\libphonenumber-csharp\csharp\PhoneNumbers\NumberParseException.cs">
+        <Link>NumberParseException.cs</Link>
+      </Compile>
+      <Compile Include="..\..\libphonenumber-csharp\csharp\PhoneNumbers\Phonemetadata.cs">
+        <Link>Phonemetadata.cs</Link>
+      </Compile>
+      <Compile Include="..\..\libphonenumber-csharp\csharp\PhoneNumbers\PhoneMetadataCollection.cs">
+        <Link>PhoneMetadataCollection.cs</Link>
+      </Compile>
+      <Compile Include="..\..\libphonenumber-csharp\csharp\PhoneNumbers\Phonenumber.cs">
+        <Link>Phonenumber.cs</Link>
+      </Compile>
+      <Compile Include="..\..\libphonenumber-csharp\csharp\PhoneNumbers\PhoneNumberDesc.cs">
+        <Link>PhoneNumberDesc.cs</Link>
+      </Compile>
+      <Compile Include="..\..\libphonenumber-csharp\csharp\PhoneNumbers\PhoneNumberFormat.cs">
+        <Link>PhoneNumberFormat.cs</Link>
+      </Compile>
+      <Compile Include="..\..\libphonenumber-csharp\csharp\PhoneNumbers\PhoneNumberMatch.cs">
+        <Link>PhoneNumberMatch.cs</Link>
+      </Compile>
+      <Compile Include="..\..\libphonenumber-csharp\csharp\PhoneNumbers\PhoneNumberMatcher.cs">
+        <Link>PhoneNumberMatcher.cs</Link>
+      </Compile>
+      <Compile Include="..\..\libphonenumber-csharp\csharp\PhoneNumbers\PhoneNumberOfflineGeocoder.cs">
+        <Link>PhoneNumberOfflineGeocoder.cs</Link>
+      </Compile>
+      <Compile Include="..\..\libphonenumber-csharp\csharp\PhoneNumbers\PhoneNumberType.cs">
+        <Link>PhoneNumberType.cs</Link>
+      </Compile>
+      <Compile Include="..\..\libphonenumber-csharp\csharp\PhoneNumbers\PhoneNumberUtil.cs">
+        <Link>PhoneNumberUtil.cs</Link>
+      </Compile>
+      <Compile Include="..\..\libphonenumber-csharp\csharp\PhoneNumbers\PhoneRegex.cs">
+        <Link>PhoneRegex.cs</Link>
+      </Compile>
+      <Compile Include="..\..\libphonenumber-csharp\csharp\PhoneNumbers\RegexCache.cs">
+        <Link>RegexCache.cs</Link>
+      </Compile>
+      <Compile Include="..\..\libphonenumber-csharp\csharp\PhoneNumbers\ShortNumberInfo.cs">
+        <Link>ShortNumberInfo.cs</Link>
+      </Compile>
+      <Compile Include="..\..\libphonenumber-csharp\csharp\PhoneNumbers\ShortNumbersRegionCodeSet.cs">
+        <Link>ShortNumbersRegionCodeSet.cs</Link>
+      </Compile>
+      <Compile Include="..\..\libphonenumber-csharp\csharp\PhoneNumbers\Util.cs">
+        <Link>Util.cs</Link>
+      </Compile>
+    </ItemGroup>
+
+</Project>

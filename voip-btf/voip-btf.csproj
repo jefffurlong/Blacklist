@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp2.1</TargetFramework>
+        <RootNamespace>voip_btf</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="AWS.Logger.SeriLog" Version="1.2.1" />
+      <PackageReference Include="DeveloperForce.Force" Version="2.0.7" />
+      <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+      <PackageReference Include="SeriLog.LogSanitizingFormatter" Version="1.1.0" />
+      <PackageReference Include="Serilog.Sinks.Console" Version="3.1.2-dev-00779" />
+      <PackageReference Include="Serilog.Sinks.Elasticsearch" Version="6.5.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Update="Parameters.xml">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </None>
+      <None Update="btf_domains.txt">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+      <None Update="btf_contacts.txt">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+    </ItemGroup>
+
+</Project>

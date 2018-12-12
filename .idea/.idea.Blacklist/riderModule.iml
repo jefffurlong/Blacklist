@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.4.0/build/netcoreapp1.0/xunit.runner.reporters.netcoreapp10.dll" />
+    <content url="file://$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.4.0/build/netcoreapp1.0/xunit.runner.utility.netcoreapp10.dll" />
+    <content url="file://$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.4.0/build/netcoreapp1.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll" />
+    <content url="file://$MODULE_DIR$/../.." />
+    <content url="file://$MODULE_DIR$/../../../libphonenumber-csharp/csharp/PhoneNumbers/AreaCodeMap.cs" />
+    <content url="file://$MODULE_DIR$/../../../libphonenumber-csharp/csharp/PhoneNumbers/AreaCodeMapStorageStrategy.cs" />
+    <content url="file://$MODULE_DIR$/../../../libphonenumber-csharp/csharp/PhoneNumbers/AreaCodeParser.cs" />
+    <content url="file://$MODULE_DIR$/../../../libphonenumber-csharp/csharp/PhoneNumbers/AsYouTypeFormatter.cs" />
+    <content url="file://$MODULE_DIR$/../../../libphonenumber-csharp/csharp/PhoneNumbers/BuildMetadataFromXml.cs" />
+    <content url="file://$MODULE_DIR$/../../../libphonenumber-csharp/csharp/PhoneNumbers/CountryCodeToRegionCodeMap.cs" />
+    <content url="file://$MODULE_DIR$/../../../libphonenumber-csharp/csharp/PhoneNumbers/DefaultMapStorage.cs" />
+    <content url="file://$MODULE_DIR$/../../../libphonenumber-csharp/csharp/PhoneNumbers/FlyweightMapStorage.cs" />
+    <content url="file://$MODULE_DIR$/../../../libphonenumber-csharp/csharp/PhoneNumbers/Internal/IMatcherApi.cs" />
+    <content url="file://$MODULE_DIR$/../../../libphonenumber-csharp/csharp/PhoneNumbers/Internal/RegexBasedMatcher.cs" />
+    <content url="file://$MODULE_DIR$/../../../libphonenumber-csharp/csharp/PhoneNumbers/InternalRegexOptions.cs" />
+    <content url="file://$MODULE_DIR$/../../../libphonenumber-csharp/csharp/PhoneNumbers/LeniencyExtensions.cs" />
+    <content url="file://$MODULE_DIR$/../../../libphonenumber-csharp/csharp/PhoneNumbers/LocaleData.cs" />
+    <content url="file://$MODULE_DIR$/../../../libphonenumber-csharp/csharp/PhoneNumbers/MappingFileProvider.cs" />
+    <content url="file://$MODULE_DIR$/../../../libphonenumber-csharp/csharp/PhoneNumbers/MetadataFilter.cs" />
+    <content url="file://$MODULE_DIR$/../../../libphonenumber-csharp/csharp/PhoneNumbers/MetadataManager.cs" />
+    <content url="file://$MODULE_DIR$/../../../libphonenumber-csharp/csharp/PhoneNumbers/NetCoreShim.cs" />
+    <content url="file://$MODULE_DIR$/../../../libphonenumber-csharp/csharp/PhoneNumbers/NumberFormat.cs" />
+    <content url="file://$MODULE_DIR$/../../../libphonenumber-csharp/csharp/PhoneNumbers/NumberParseException.cs" />
+    <content url="file://$MODULE_DIR$/../../../libphonenumber-csharp/csharp/PhoneNumbers/PhoneMetadataCollection.cs" />
+    <content url="file://$MODULE_DIR$/../../../libphonenumber-csharp/csharp/PhoneNumbers/PhoneNumberDesc.cs" />
+    <content url="file://$MODULE_DIR$/../../../libphonenumber-csharp/csharp/PhoneNumbers/PhoneNumberFormat.cs" />
+    <content url="file://$MODULE_DIR$/../../../libphonenumber-csharp/csharp/PhoneNumbers/PhoneNumberMatch.cs" />
+    <content url="file://$MODULE_DIR$/../../../libphonenumber-csharp/csharp/PhoneNumbers/PhoneNumberMatcher.cs" />
+    <content url="file://$MODULE_DIR$/../../../libphonenumber-csharp/csharp/PhoneNumbers/PhoneNumberOfflineGeocoder.cs" />
+    <content url="file://$MODULE_DIR$/../../../libphonenumber-csharp/csharp/PhoneNumbers/PhoneNumberType.cs" />
+    <content url="file://$MODULE_DIR$/../../../libphonenumber-csharp/csharp/PhoneNumbers/PhoneNumberUtil.cs" />
+    <content url="file://$MODULE_DIR$/../../../libphonenumber-csharp/csharp/PhoneNumbers/PhoneRegex.cs" />
+    <content url="file://$MODULE_DIR$/../../../libphonenumber-csharp/csharp/PhoneNumbers/Phonemetadata.cs" />
+    <content url="file://$MODULE_DIR$/../../../libphonenumber-csharp/csharp/PhoneNumbers/Phonenumber.cs" />
+    <content url="file://$MODULE_DIR$/../../../libphonenumber-csharp/csharp/PhoneNumbers/RegexCache.cs" />
+    <content url="file://$MODULE_DIR$/../../../libphonenumber-csharp/csharp/PhoneNumbers/ShortNumberInfo.cs" />
+    <content url="file://$MODULE_DIR$/../../../libphonenumber-csharp/csharp/PhoneNumbers/ShortNumbersRegionCodeSet.cs" />
+    <content url="file://$MODULE_DIR$/../../../libphonenumber-csharp/csharp/PhoneNumbers/Util.cs" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

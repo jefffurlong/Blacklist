@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.4.0/build/netcoreapp1.0/xunit.runner.reporters.netcoreapp10.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.4.0/build/netcoreapp1.0/xunit.runner.utility.netcoreapp10.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.4.0/build/netcoreapp1.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Blacklist.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="PhoneNumbers" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="PhoneNumbers.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PhoneNumbers.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="voip-btf" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Blacklist.cs" t="Include" />
+        <e p="btf_contacts.txt" t="Include" />
+        <e p="btf_domains.txt" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="voip-btf.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Parameters.xml" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="voip-btf.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="voip-btf.Tests" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="voip-btf.Tests.AssemblyInfo.cs" t="Include" />
+              <e p="voip-btf.Tests.Program.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="UnitTest1.cs" t="Include" />
+        <e p="voip-btf.Tests.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+    <e p="$PROJECT_DIR$/../libphonenumber-csharp/csharp/PhoneNumbers/AreaCodeMap.cs" t="Include" />
+    <e p="$PROJECT_DIR$/../libphonenumber-csharp/csharp/PhoneNumbers/AreaCodeMapStorageStrategy.cs" t="Include" />
+    <e p="$PROJECT_DIR$/../libphonenumber-csharp/csharp/PhoneNumbers/AreaCodeParser.cs" t="Include" />
+    <e p="$PROJECT_DIR$/../libphonenumber-csharp/csharp/PhoneNumbers/AsYouTypeFormatter.cs" t="Include" />
+    <e p="$PROJECT_DIR$/../libphonenumber-csharp/csharp/PhoneNumbers/BuildMetadataFromXml.cs" t="Include" />
+    <e p="$PROJECT_DIR$/../libphonenumber-csharp/csharp/PhoneNumbers/CountryCodeToRegionCodeMap.cs" t="Include" />
+    <e p="$PROJECT_DIR$/../libphonenumber-csharp/csharp/PhoneNumbers/DefaultMapStorage.cs" t="Include" />
+    <e p="$PROJECT_DIR$/../libphonenumber-csharp/csharp/PhoneNumbers/FlyweightMapStorage.cs" t="Include" />
+    <e p="$PROJECT_DIR$/../libphonenumber-csharp/csharp/PhoneNumbers/Internal/IMatcherApi.cs" t="Include" />
+    <e p="$PROJECT_DIR$/../libphonenumber-csharp/csharp/PhoneNumbers/Internal/RegexBasedMatcher.cs" t="Include" />
+    <e p="$PROJECT_DIR$/../libphonenumber-csharp/csharp/PhoneNumbers/InternalRegexOptions.cs" t="Include" />
+    <e p="$PROJECT_DIR$/../libphonenumber-csharp/csharp/PhoneNumbers/LeniencyExtensions.cs" t="Include" />
+    <e p="$PROJECT_DIR$/../libphonenumber-csharp/csharp/PhoneNumbers/LocaleData.cs" t="Include" />
+    <e p="$PROJECT_DIR$/../libphonenumber-csharp/csharp/PhoneNumbers/MappingFileProvider.cs" t="Include" />
+    <e p="$PROJECT_DIR$/../libphonenumber-csharp/csharp/PhoneNumbers/MetadataFilter.cs" t="Include" />
+    <e p="$PROJECT_DIR$/../libphonenumber-csharp/csharp/PhoneNumbers/MetadataManager.cs" t="Include" />
+    <e p="$PROJECT_DIR$/../libphonenumber-csharp/csharp/PhoneNumbers/NetCoreShim.cs" t="Include" />
+    <e p="$PROJECT_DIR$/../libphonenumber-csharp/csharp/PhoneNumbers/NumberFormat.cs" t="Include" />
+    <e p="$PROJECT_DIR$/../libphonenumber-csharp/csharp/PhoneNumbers/NumberParseException.cs" t="Include" />
+    <e p="$PROJECT_DIR$/../libphonenumber-csharp/csharp/PhoneNumbers/Phonemetadata.cs" t="Include" />
+    <e p="$PROJECT_DIR$/../libphonenumber-csharp/csharp/PhoneNumbers/PhoneMetadataCollection.cs" t="Include" />
+    <e p="$PROJECT_DIR$/../libphonenumber-csharp/csharp/PhoneNumbers/Phonenumber.cs" t="Include" />
+    <e p="$PROJECT_DIR$/../libphonenumber-csharp/csharp/PhoneNumbers/PhoneNumberDesc.cs" t="Include" />
+    <e p="$PROJECT_DIR$/../libphonenumber-csharp/csharp/PhoneNumbers/PhoneNumberFormat.cs" t="Include" />
+    <e p="$PROJECT_DIR$/../libphonenumber-csharp/csharp/PhoneNumbers/PhoneNumberMatch.cs" t="Include" />
+    <e p="$PROJECT_DIR$/../libphonenumber-csharp/csharp/PhoneNumbers/PhoneNumberMatcher.cs" t="Include" />
+    <e p="$PROJECT_DIR$/../libphonenumber-csharp/csharp/PhoneNumbers/PhoneNumberOfflineGeocoder.cs" t="Include" />
+    <e p="$PROJECT_DIR$/../libphonenumber-csharp/csharp/PhoneNumbers/PhoneNumberType.cs" t="Include" />
+    <e p="$PROJECT_DIR$/../libphonenumber-csharp/csharp/PhoneNumbers/PhoneNumberUtil.cs" t="Include" />
+    <e p="$PROJECT_DIR$/../libphonenumber-csharp/csharp/PhoneNumbers/PhoneRegex.cs" t="Include" />
+    <e p="$PROJECT_DIR$/../libphonenumber-csharp/csharp/PhoneNumbers/RegexCache.cs" t="Include" />
+    <e p="$PROJECT_DIR$/../libphonenumber-csharp/csharp/PhoneNumbers/ShortNumberInfo.cs" t="Include" />
+    <e p="$PROJECT_DIR$/../libphonenumber-csharp/csharp/PhoneNumbers/ShortNumbersRegionCodeSet.cs" t="Include" />
+    <e p="$PROJECT_DIR$/../libphonenumber-csharp/csharp/PhoneNumbers/Util.cs" t="Include" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_Blacklist.493093360.00" t="ExcludeRecursive" />
+  </component>
+</project>

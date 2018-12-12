@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <appSettings>
+        <add key="URL" value="http://localhost:3000/" />
+        <add key="USERNAME" value="poweruser2@power.com" />
+        <add key="KEY" value="M5iecZ7ddkn7dWmJC_aHJAYkxzRvkWJYEMeW4StS" />
+    </appSettings>
+</configuration>

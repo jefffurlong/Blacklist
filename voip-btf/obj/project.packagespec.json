@@ -1,0 +1,67 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/jefffurlong/Development/Blacklist/voip-btf/voip-btf.csproj",
+    "projectName": "voip-btf",
+    "projectPath": "/Users/jefffurlong/Development/Blacklist/voip-btf/voip-btf.csproj",
+    "outputPath": "/Users/jefffurlong/Development/Blacklist/voip-btf/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "AWS.Logger.SeriLog": {
+          "target": "Package",
+          "version": "[1.2.1, )"
+        },
+        "DeveloperForce.Force": {
+          "target": "Package",
+          "version": "[2.0.7, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        },
+        "Newtonsoft.Json": {
+          "target": "Package",
+          "version": "[12.0.1, )"
+        },
+        "SeriLog.LogSanitizingFormatter": {
+          "target": "Package",
+          "version": "[1.1.0, )"
+        },
+        "Serilog.Sinks.Console": {
+          "target": "Package",
+          "version": "[3.1.2-dev-00779, )"
+        },
+        "Serilog.Sinks.Elasticsearch": {
+          "target": "Package",
+          "version": "[6.5.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
